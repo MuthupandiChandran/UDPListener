@@ -1,4 +1,4 @@
-# UDPRepository
+# UDPListener
 .NET Windows Form Application which operates UDP Listener
 Step 1:
 Run the .NET Application which act as UDP Listener
