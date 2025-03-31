@@ -1,0 +1,16 @@
+C:\Users\pp\source\repos\UDPListener\UDPListener\bin\Debug\net6.0-windows\UDPListener.exe
+C:\Users\pp\source\repos\UDPListener\UDPListener\bin\Debug\net6.0-windows\UDPListener.deps.json
+C:\Users\pp\source\repos\UDPListener\UDPListener\bin\Debug\net6.0-windows\UDPListener.runtimeconfig.json
+C:\Users\pp\source\repos\UDPListener\UDPListener\bin\Debug\net6.0-windows\UDPListener.dll
+C:\Users\pp\source\repos\UDPListener\UDPListener\bin\Debug\net6.0-windows\UDPListener.pdb
+C:\Users\pp\source\repos\UDPListener\UDPListener\obj\Debug\net6.0-windows\UDPListener.Form1.resources
+C:\Users\pp\source\repos\UDPListener\UDPListener\obj\Debug\net6.0-windows\UDPListener.csproj.GenerateResource.cache
+C:\Users\pp\source\repos\UDPListener\UDPListener\obj\Debug\net6.0-windows\UDPListener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pp\source\repos\UDPListener\UDPListener\obj\Debug\net6.0-windows\UDPListener.AssemblyInfoInputs.cache
+C:\Users\pp\source\repos\UDPListener\UDPListener\obj\Debug\net6.0-windows\UDPListener.AssemblyInfo.cs
+C:\Users\pp\source\repos\UDPListener\UDPListener\obj\Debug\net6.0-windows\UDPListener.csproj.CoreCompileInputs.cache
+C:\Users\pp\source\repos\UDPListener\UDPListener\obj\Debug\net6.0-windows\UDPListener.dll
+C:\Users\pp\source\repos\UDPListener\UDPListener\obj\Debug\net6.0-windows\refint\UDPListener.dll
+C:\Users\pp\source\repos\UDPListener\UDPListener\obj\Debug\net6.0-windows\UDPListener.pdb
+C:\Users\pp\source\repos\UDPListener\UDPListener\obj\Debug\net6.0-windows\UDPListener.genruntimeconfig.cache
+C:\Users\pp\source\repos\UDPListener\UDPListener\obj\Debug\net6.0-windows\ref\UDPListener.dll
